@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc liblvgl_porting.a CMakeFiles/__idf_lvgl_porting.dir/lv_mount_cus_font.c.obj CMakeFiles/__idf_lvgl_porting.dir/lv_port_disp.c.obj CMakeFiles/__idf_lvgl_porting.dir/lv_port_indev.c.obj CMakeFiles/__idf_lvgl_porting.dir/lv_task.c.obj CMakeFiles/__idf_lvgl_porting.dir/lvgl_fonts/lv_DigifaceWide_82.c.obj CMakeFiles/__idf_lvgl_porting.dir/lvgl_fonts/lv_DigifaceWide_98.c.obj CMakeFiles/__idf_lvgl_porting.dir/lvgl_fonts/myFont.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe liblvgl_porting.a

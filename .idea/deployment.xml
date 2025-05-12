@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Ubuntu (9b56ba64-2216-4b82-91ed-bc0758ea4f16)">
+        <serverdata>
+          <mappings>
+            <mapping local="D:/Espressif/frameworks/esp-idf-v5.1.1" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="orangepi (863d11b3-af9d-4028-b326-d9a61edd161b)">
+        <serverdata>
+          <mappings>
+            <mapping local="D:/Espressif/frameworks/esp-idf-v5.1.1" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

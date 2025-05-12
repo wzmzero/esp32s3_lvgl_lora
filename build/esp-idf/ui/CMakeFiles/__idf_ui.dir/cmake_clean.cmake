@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/__idf_ui.dir/components/ui_comp_hook.c.obj"
+  "CMakeFiles/__idf_ui.dir/components/ui_comp_hook.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/fonts/ui_font_Black28.c.obj"
+  "CMakeFiles/__idf_ui.dir/fonts/ui_font_Black28.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/fonts/ui_font_bold24.c.obj"
+  "CMakeFiles/__idf_ui.dir/fonts/ui_font_bold24.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_humidity_png.c.obj"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_humidity_png.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_temperature_png.c.obj"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_temperature_png.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_wifi_1_png.c.obj"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_wifi_1_png.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_wifi_ic_png.c.obj"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_wifi_ic_png.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_yituflow_png.c.obj"
+  "CMakeFiles/__idf_ui.dir/images/ui_img_yituflow_png.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/screens/ui_Charts.c.obj"
+  "CMakeFiles/__idf_ui.dir/screens/ui_Charts.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/screens/ui_DataMenu.c.obj"
+  "CMakeFiles/__idf_ui.dir/screens/ui_DataMenu.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/screens/ui_MainScreen.c.obj"
+  "CMakeFiles/__idf_ui.dir/screens/ui_MainScreen.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/screens/ui_Other.c.obj"
+  "CMakeFiles/__idf_ui.dir/screens/ui_Other.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/screens/ui_Wifi.c.obj"
+  "CMakeFiles/__idf_ui.dir/screens/ui_Wifi.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/ui.c.obj"
+  "CMakeFiles/__idf_ui.dir/ui.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/ui_events.c.obj"
+  "CMakeFiles/__idf_ui.dir/ui_events.c.obj.d"
+  "CMakeFiles/__idf_ui.dir/ui_helpers.c.obj"
+  "CMakeFiles/__idf_ui.dir/ui_helpers.c.obj.d"
+  "libui.a"
+  "libui.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/__idf_ui.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

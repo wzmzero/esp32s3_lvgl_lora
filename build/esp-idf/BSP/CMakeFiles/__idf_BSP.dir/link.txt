@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libBSP.a CMakeFiles/__idf_BSP.dir/LED/led.c.obj CMakeFiles/__idf_BSP.dir/USART/mqtt.c.obj CMakeFiles/__idf_BSP.dir/USART/usart.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libBSP.a

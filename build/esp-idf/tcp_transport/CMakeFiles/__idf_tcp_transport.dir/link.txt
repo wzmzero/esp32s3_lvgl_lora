@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libtcp_transport.a CMakeFiles/__idf_tcp_transport.dir/transport.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_ssl.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_internal.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_socks_proxy.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_ws.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libtcp_transport.a

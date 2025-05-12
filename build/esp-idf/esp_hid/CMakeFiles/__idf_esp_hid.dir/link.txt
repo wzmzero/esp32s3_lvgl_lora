@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libesp_hid.a CMakeFiles/__idf_esp_hid.dir/src/esp_hidd.c.obj CMakeFiles/__idf_esp_hid.dir/src/esp_hidh.c.obj CMakeFiles/__idf_esp_hid.dir/src/esp_hid_common.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libesp_hid.a

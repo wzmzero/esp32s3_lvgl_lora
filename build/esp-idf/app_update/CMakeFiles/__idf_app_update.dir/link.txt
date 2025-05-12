@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libapp_update.a CMakeFiles/__idf_app_update.dir/esp_ota_ops.c.obj CMakeFiles/__idf_app_update.dir/esp_ota_app_desc.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libapp_update.a

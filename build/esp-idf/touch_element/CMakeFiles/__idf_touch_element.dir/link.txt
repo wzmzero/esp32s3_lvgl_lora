@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libtouch_element.a CMakeFiles/__idf_touch_element.dir/touch_element.c.obj CMakeFiles/__idf_touch_element.dir/touch_button.c.obj CMakeFiles/__idf_touch_element.dir/touch_slider.c.obj CMakeFiles/__idf_touch_element.dir/touch_matrix.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libtouch_element.a

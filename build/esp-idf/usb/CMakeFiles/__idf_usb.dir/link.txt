@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libusb.a CMakeFiles/__idf_usb.dir/hcd_dwc.c.obj CMakeFiles/__idf_usb.dir/hub.c.obj CMakeFiles/__idf_usb.dir/usb_helpers.c.obj CMakeFiles/__idf_usb.dir/usb_host.c.obj CMakeFiles/__idf_usb.dir/usb_private.c.obj CMakeFiles/__idf_usb.dir/usbh.c.obj CMakeFiles/__idf_usb.dir/usb_phy.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libusb.a

@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libesp_http_client.a CMakeFiles/__idf_esp_http_client.dir/esp_http_client.c.obj CMakeFiles/__idf_esp_http_client.dir/lib/http_auth.c.obj CMakeFiles/__idf_esp_http_client.dir/lib/http_header.c.obj CMakeFiles/__idf_esp_http_client.dir/lib/http_utils.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libesp_http_client.a

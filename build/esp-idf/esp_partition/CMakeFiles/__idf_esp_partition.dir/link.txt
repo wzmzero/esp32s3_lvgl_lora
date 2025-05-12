@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libesp_partition.a CMakeFiles/__idf_esp_partition.dir/partition.c.obj CMakeFiles/__idf_esp_partition.dir/partition_target.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libesp_partition.a

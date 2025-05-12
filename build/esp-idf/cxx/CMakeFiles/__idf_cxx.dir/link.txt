@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libcxx.a CMakeFiles/__idf_cxx.dir/cxx_exception_stubs.cpp.obj CMakeFiles/__idf_cxx.dir/cxx_guards.cpp.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libcxx.a

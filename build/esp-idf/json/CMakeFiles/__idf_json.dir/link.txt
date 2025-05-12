@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libjson.a CMakeFiles/__idf_json.dir/cJSON/cJSON.c.obj CMakeFiles/__idf_json.dir/cJSON/cJSON_Utils.c.obj
+C:\PROGRA~1\mingw64\bin\ranlib.exe libjson.a

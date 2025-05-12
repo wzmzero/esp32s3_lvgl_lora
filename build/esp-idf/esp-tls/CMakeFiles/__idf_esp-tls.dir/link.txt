@@ -1,0 +1,2 @@
+C:\PROGRA~1\mingw64\bin\ar.exe qc libesp-tls.a "CMakeFiles/__idf_esp-tls.dir/esp_tls.c.obj" "CMakeFiles/__idf_esp-tls.dir/esp-tls-crypto/esp_tls_crypto.c.obj" "CMakeFiles/__idf_esp-tls.dir/esp_tls_error_capture.c.obj" "CMakeFiles/__idf_esp-tls.dir/esp_tls_mbedtls.c.obj"
+C:\PROGRA~1\mingw64\bin\ranlib.exe libesp-tls.a
